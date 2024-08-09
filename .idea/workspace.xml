@@ -5,115 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="565b7dc0-b43f-46f5-b55e-4b58a90cace8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/10c1c045-9625-453c-aba5-68b659722018-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3d97a873-91c5-4d4b-a138-6d476714082a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/835049cb-0385-4d56-a70d-6116dab1fb6b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/97500e22-eaa8-4f7e-9bb1-87f8250169e7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a33007ec-78f1-4662-b4d5-d12b60354910-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/be525cd1-70c5-4840-a8a8-38b5674d645b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d177f5dd-6fe1-493e-95a3-f4ec528a3f77-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d479cfaf-9012-4a8b-8937-40d104d2cfce-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e7265123-3174-4f93-b266-ae07c4ad6c5c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fd348e70-610a-4bdf-bc83-db6f4329ea46-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/1e242d2f-d723-4673-bca8-6137739cd85a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/1e27014f-4148-44a0-a3c3-387fb97bcf23-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/1fa86350-a422-43de-842f-ac86d49d51c4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/257091a7-9429-4cf0-b0c3-3059ca3ba5e4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/2dbb6fe9-5ff9-4f1e-82b7-2a4320d8a9e5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/32d7304b-bcd1-43d8-81ad-95137e07cd92-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/3389010d-1b87-4d1a-b5c7-9689bf620240-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/35e3e28a-d5fb-4684-a5fe-b9c4b96daebe-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/4b551e29-be8e-4b34-8201-3e9357c119ab-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/52acc73c-54f9-4e9e-a1c4-de14ee0713a5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/6741974d-222c-4a7c-9d1b-7ea24388557f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/69b9bfc9-4d5e-4a39-84d6-3838fa24c1b3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/6c4dbee3-5d42-43ee-843b-6e4ffc3759c7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/827b7b17-6f21-473c-b0d9-ad00b7f8ffe5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/93840e3b-fde0-400b-b4db-ea1c70e5bc3d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/9b5d72b7-da96-4f71-94dd-f77ac9c858f5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/a7ae8ca2-5f27-4752-b0b3-2c15820452b9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/aae3775d-9615-4a03-b889-cbeca5996b6a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/aaf44f58-1cff-47c9-a668-9cf7212fc85e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/acccee4a-17b9-4a53-817d-4e2e4c88ad58-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/c72e6374-8773-45fb-941b-5e480f26aa49-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/cd39ea93-a96d-4208-9082-c82cde542d5c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/d5e5a7c4-0425-4faf-bab4-6ab7a765d23c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/e4d11637-9c10-432f-b91d-468dd421faa7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/eaa90c7e-8d3f-4455-9cc9-2371538a255e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/f175d774-ee9c-46db-8643-71a274b681de-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/ffb387e9-02a6-4076-97a7-be4046f30405-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Restful Employee Test Suite (0)/Restful Employee tests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Restful Employee Test Suite (0)/Restful Employee tests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Restful Employee Test Suite (1)/Restful Employee tests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Restful Employee Test Suite (1)/Restful Employee tests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Restful Employee Test Suite/Restful Employee tests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Restful Employee Test Suite/Restful Employee tests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-au.com.restful.RestfulCrudPetDetailsTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-au.com.restful.RestfulCrudPetStoreInventoryTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-au.com.restful.RestfulCrudPetUserTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (0)/Restful Employee tests.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (0)/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (0)/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (0)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (0)/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (0)/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (0)/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (0)/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (0)/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (0)/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (0)/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (1)/Restful Employee tests.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (1)/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (1)/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (1)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (1)/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (1)/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (1)/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (1)/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (1)/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (1)/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite (1)/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite/Restful Employee tests.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Restful Employee Test Suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/testData/pet.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/testData/petData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,8 +40,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/jammula/Automation/PetStore_ApiAutomation",
+    "last_opened_file_path": "/Users/jammula/Automation/PetStore_ApiAutomation/src/test/resources/testData",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -157,11 +49,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/testData" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/test-suite" />
       <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources/testData" />
@@ -171,6 +63,17 @@
     </key>
   </component>
   <component name="RunManager" selected="Maven.PetStore_ApiAutomation">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PetStore_ApiAutomation" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -297,13 +200,65 @@
       <option name="project" value="LOCAL" />
       <updated>1723214984813</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pet Store apis automated">
+      <created>1723215352355</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723215352355</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Pet Store apis automated">
+      <created>1723215796904</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723215796904</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Pet Store apis automated">
+      <created>1723215832147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723215832147</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated Java version">
+      <created>1723218285002</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723218285002</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated the pipeline java version">
+      <created>1723218543024</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723218543024</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated the pipeline java version">
+      <created>1723218948886</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723218948886</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated the pipeline java version">
+      <created>1723219097175</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723219097175</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Pet Store apis automated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pet Store apis automated" />
+    <MESSAGE value="Merge branch 'feature/Srini-CBATest' into feature/Srinivasa-CBATest&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/vcs.xml" />
+    <MESSAGE value="Updated Java version" />
+    <MESSAGE value="Updated the pipeline java version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the pipeline java version" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

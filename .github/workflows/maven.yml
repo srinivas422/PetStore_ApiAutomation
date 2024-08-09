@@ -28,11 +28,24 @@ jobs:
       - name: Set up JDK
         uses: actions/setup-java@v3
         with:
-          java-version: '11'  # Specify the JDK version here
+          java-version: '17'  # Specify the JDK version here
           distribution: 'temurin'  # You can use 'adopt-openjdk' or 'zulu' as alternatives
-      
+
       - name: Build with Maven
         run: mvn clean install
-      
+
       - name: Run tests with Maven
         run: mvn clean verify
+
+      - name: Generate Allure Report
+        run: |
+          mvn allure:report
+          mkdir -p allure-results
+          cp -r target/allure-results allure-results/
+        continue-on-error: true
+
+      - name: Upload Allure Report
+        uses: actions/upload-artifact@v3
+        with:
+          name: allure-report
+          path: /tmp/16831100777249218503/allure-report
