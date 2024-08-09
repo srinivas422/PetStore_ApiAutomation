@@ -36,3 +36,6 @@ jobs:
 
       - name: Run tests with Maven
         run: mvn clean verify
+
+      - name: Generate Allure Report
+        run: mvn allure:serve
