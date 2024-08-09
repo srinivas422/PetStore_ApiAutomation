@@ -54,10 +54,10 @@ public class RestfulCrudPetUserTests extends BaseSetup {
     }
 
     @Test(priority = 1)
-    @Description("Creating new array of usrs Record - Post request")
+    @Description("Creating new array of users Record - Post request")
     @Severity(SeverityLevel.BLOCKER)
-    @Story("PetStore User using rest-assured")
-    @Step("Create new User record")
+    @Story("PetStore Users using rest-assured")
+    @Step("Create new set of Users record")
     public void createArrayOfUsersTest() throws URISyntaxException, IOException, CsvException {
         Map<String,Object> userPayload = new HashMap();
         userPayload.put("id", PetStoreUserDataBuilder.getPetStoreData(path).getId());
