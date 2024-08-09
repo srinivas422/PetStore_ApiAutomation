@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="565b7dc0-b43f-46f5-b55e-4b58a90cace8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/10c1c045-9625-453c-aba5-68b659722018-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/3d97a873-91c5-4d4b-a138-6d476714082a-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/835049cb-0385-4d56-a70d-6116dab1fb6b-result.json" afterDir="false" />
@@ -147,7 +144,6 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/Users/jammula/Automation/PetStore_ApiAutomation",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -297,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723214984813</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pet Store apis automated">
+      <created>1723215352355</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723215352355</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
