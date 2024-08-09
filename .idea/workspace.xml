@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="565b7dc0-b43f-46f5-b55e-4b58a90cace8" name="Changes" comment="Merge branch 'feature/Srini-CBATest' into feature/Srinivasa-CBATest&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/vcs.xml">
+    <list default="true" id="565b7dc0-b43f-46f5-b55e-4b58a90cace8" name="Changes" comment="Updated the pipeline java version">
+      <change afterPath="$PROJECT_DIR$/allure-results/0361d313-4795-40b3-a83e-55b23ee716a5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/05369160-20e1-41d3-bc42-968d7906bad5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0eb29701-6451-41c2-bcda-0d14733f557f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/23b8e2d0-d315-4fd6-a8be-9155182be320-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/28055125-43ae-4079-a1e8-9abaccdf9339-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2858eee1-bf00-4df8-be80-4eff8c57f94d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3fadafcb-a9d9-4305-a41f-3dce6f6f2f56-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5f52fbcf-983e-404d-b059-b59ca725519a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/66ff9a16-d145-49ac-966a-d1444e7cb4e2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6c1712fe-69f3-41c4-8879-ea15a204e9d1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6c78cec9-f9a7-4da8-89cf-4744024888b9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/75af1a48-bd71-4bbe-8c13-d17f4787e6ed-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/80c2e4a4-11a6-48f8-957d-e9a47f5b9a6a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8329de30-1f75-4dcf-a2f8-8aaa6cbba588-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/910867df-69d6-4beb-a8a3-e2fce73a1002-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a77e4333-2a0a-458b-9611-4c32b125ed7f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a9abb7bd-fdd2-43a0-b08a-00f75358e578-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ab22c79c-6c0a-450a-b6ea-72b5cb91ee8d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bb77477d-6cbf-47e0-be06-ced69ee6d9e4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bf7f5375-009f-4316-8f29-8120fbcab5ee-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c50221da-80f7-42f2-9388-3dc171a75c9a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c71da031-8629-4ade-97d4-deae343e1b4c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cc90e4e8-3fb2-4832-9da3-27c709492935-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d157d315-f4d2-4351-8acf-4f502c186101-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d504d458-90de-49fa-8490-ea8967901b9b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/efb79e27-bcf8-4d2f-82b4-23f8618c2f88-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f847cb46-c35f-4021-8f22-3c869913617a-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -228,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723218285002</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated the pipeline java version">
+      <created>1723218543024</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723218543024</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,7 +270,8 @@
     <MESSAGE value="Pet Store apis automated" />
     <MESSAGE value="Merge branch 'feature/Srini-CBATest' into feature/Srinivasa-CBATest&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/vcs.xml" />
     <MESSAGE value="Updated Java version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Java version" />
+    <MESSAGE value="Updated the pipeline java version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the pipeline java version" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
