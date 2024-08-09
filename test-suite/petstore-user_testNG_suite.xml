@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Restful Employee Test Suite" thread-count="3" parallel="tests">
+    <listeners>
+        <listener
+                class-name="au.com.log.TestListener"/>
+    </listeners>
+    <test name="Restful Employee tests">
+        <classes>
+            <class name="au.com.restful.RestfulCrudPetUserTests">
+                <methods>
+                    <include name="createUsersTest"/>
+                    <include name="createArrayOfUsersTest"/>
+                    <include name="getUserLogOutTest"/>
+                    <include name="getUserDetailsTest"/>
+                    <include name="getUserLogInTest"/>
+                    <include name="deleteUserTest"/>
+                    <include name="updateUserTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
